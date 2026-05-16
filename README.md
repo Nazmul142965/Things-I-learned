@@ -9,15 +9,15 @@ Below is an automatically generated list of all the topics and languages I am cu
 <!-- FOLDER_LIST_START -->
 | Topic / Folder | Description |
 | :--- | :--- |
-| 📁 **[Assembly](./Assembly)** | Code, notes, and exercises for Assembly. |
-| 📁 **[C](./C)** | Code, notes, and exercises for C. |
-| 📁 **[DSA](./DSA)** | Code, notes, and exercises for DSA. |
-| 📁 **[Embedded System](./Embedded%20System)** | Code, notes, and exercises for Embedded System. |
-| 📁 **[Golang](./Golang)** | Code, notes, and exercises for Golang. |
-| 📁 **[Graphics And Animation](./Graphics%20And%20Animation)** | Code, notes, and exercises for Graphics And Animation. |
-| 📁 **[Networking](./Networking)** | Code, notes, and exercises for Networking. |
-| 📁 **[SQL](./SQL)** | Code, notes, and exercises for SQL. |
-| 📁 **[java](./java)** | Code, notes, and exercises for java. |
+| 📁 **[Assembly](./Assembly)** | Low-level architecture concepts and basic Assembly programs. |
+| 📁 **[C](./C)** | University lab reports, memory management, and pointer exercises. |
+| 📁 **[DSA](./DSA)** | Data Structures and Algorithms implementations (Trees, Graphs, Sorting, etc.). |
+| 📁 **[Embedded System](./Embedded%20System)** | Microcontroller code, including my Smart Alarm System lab. |
+| 📁 **[Golang](./Golang)** | Syntax practice, concurrency (goroutines), and basic Go scripts. |
+| 📁 **[Graphics And Animation](./Graphics%20And%20Animation)** | 3D modeling, animations, and lighting using C++ and OpenGL/GLUT. |
+| 📁 **[Networking](./Networking)** | Client-server chat implementations and socket programming. |
+| 📁 **[SQL](./SQL)** | Database schemas, complex queries, and lab PDFs. |
+| 📁 **[java](./java)** | Object-Oriented Programming principles and Java exercises. |
 
 <!-- FOLDER_LIST_END -->
 
