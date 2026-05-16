@@ -1,0 +1,34 @@
+name: Auto-Update README
+
+# Run every time you push code to the main branch
+on:
+  push:
+    branches:
+      - main
+
+# Give the robot permission to edit your README
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Python Script
+        run: python update_readme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Auto-update README with new folders" || echo "No changes to commit"
+          git push
