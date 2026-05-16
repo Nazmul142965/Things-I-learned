@@ -7,6 +7,18 @@ I use this repository as my personal coding wiki to track my progress, test synt
 Below is an automatically generated list of all the topics and languages I am currently practicing.
 
 <!-- FOLDER_LIST_START -->
+| Topic / Folder | Description |
+| :--- | :--- |
+| 📁 **[Assembly](./Assembly)** | Code, notes, and exercises for Assembly. |
+| 📁 **[C](./C)** | Code, notes, and exercises for C. |
+| 📁 **[DSA](./DSA)** | Code, notes, and exercises for DSA. |
+| 📁 **[Embedded System](./Embedded%20System)** | Code, notes, and exercises for Embedded System. |
+| 📁 **[Golang](./Golang)** | Code, notes, and exercises for Golang. |
+| 📁 **[Graphics And Animation](./Graphics%20And%20Animation)** | Code, notes, and exercises for Graphics And Animation. |
+| 📁 **[Networking](./Networking)** | Code, notes, and exercises for Networking. |
+| 📁 **[SQL](./SQL)** | Code, notes, and exercises for SQL. |
+| 📁 **[java](./java)** | Code, notes, and exercises for java. |
+
 <!-- FOLDER_LIST_END -->
 
 ## 🌟 My Full Projects
