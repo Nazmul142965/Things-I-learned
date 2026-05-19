@@ -9,6 +9,7 @@ Below is an automatically generated list of all the topics and languages I am cu
 <!-- FOLDER_LIST_START -->
 | Topic / Folder | Description |
 | :--- | :--- |
+| 📁 **[Advance Algorithm](./Advance%20Algorithm)** | Learning materials and code for Advance Algorithm. |
 | 📁 **[Assembly](./Assembly)** | Low-level architecture concepts and basic Assembly programs. |
 | 📁 **[C](./C)** | University lab reports, memory management, and pointer exercises. |
 | 📁 **[DSA](./DSA)** | Data Structures and Algorithms implementations (Trees, Graphs, Sorting, etc.). |
