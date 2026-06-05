@@ -1,0 +1,49 @@
+# VS Code workspace settings
+.vscode/
+
+# Compiled object files and libraries
+*.o
+*.obj
+*.lo
+*.la
+*.al
+
+# Executables and shared libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio files (if ever used)
+*.suo
+*.user
+*.userosscache
+*.vcxproj*
+
+# Logs, dumps and editor swap files
+*.log
+*.stackdump
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Prevent accidentally committing executables in subfolders
+**/*.exe
