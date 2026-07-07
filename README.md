@@ -17,7 +17,6 @@ Below is an automatically generated list of all the topics and languages I am cu
 | 📁 **[Golang](./Golang)** | Syntax practice, concurrency (goroutines), and basic Go scripts. |
 | 📁 **[Graphics And Animation](./Graphics%20And%20Animation)** | 3D modeling, animations, and lighting using C++ and OpenGL/GLUT. |
 | 📁 **[Networking](./Networking)** | Client-server chat implementations and socket programming. |
-| 📁 **[Operating System](./Operating%20System)** | Learning materials and code for Operating System. |
 | 📁 **[SQL](./SQL)** | Database schemas, complex queries, and lab PDFs. |
 | 📁 **[java](./java)** | Object-Oriented Programming principles and Java exercises. |
 
